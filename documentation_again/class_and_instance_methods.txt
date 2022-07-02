@@ -1,0 +1,4 @@
+File::path returns a string that represents the file
+File#path returns a string that represents the file pathname of the file when the file was created
+
+File#path will throw an error if the file doesn't have a pathname
